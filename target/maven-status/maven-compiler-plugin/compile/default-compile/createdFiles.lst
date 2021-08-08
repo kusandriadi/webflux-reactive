@@ -1,0 +1,8 @@
+webflux/reactive/Student.class
+webflux/reactive/SchoolWebApplication.class
+webflux/reactive/repository/ReactiveStudentRepository.class
+webflux/reactive/Subject.class
+webflux/reactive/repository/SubjectRepository.class
+webflux/reactive/repository/StudentRepository.class
+webflux/reactive/repository/ReactiveSubjectRepository.class
+webflux/reactive/controller/SchoolController.class
